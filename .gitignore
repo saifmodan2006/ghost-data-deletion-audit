@@ -1,0 +1,12 @@
+.venv/
+.audit_cache/
+__pycache__/
+*.pyc
+code.zip
+output.csv
+sample_predictions.csv
+log.txt
+agent-trace/
+agent-trace.zip
+.env
+submission_manifest.md
